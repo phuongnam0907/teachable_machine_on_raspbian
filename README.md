@@ -5,6 +5,8 @@ This tutorial follows the instructions from page: https://www.instructables.com/
 * Username: pi
 * Password: raspberry
 
+[DEMO CLIP](https://drive.google.com/file/d/1lyHoC7qYKU0o239HxB9r_eC5Jd9UnNBU/view?usp=sharing)
+
 ## Setup environment
 Follows these steps to setup environment
 
