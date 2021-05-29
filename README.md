@@ -1,4 +1,4 @@
-# teachable_machine_on_raspbian
+# Teachable Machine on Raspbian
 This tutorial follows the instructions from page: https://www.instructables.com/La-Croix-Flavor-Detector-Easy-Object-Detection-on-/
 ## Prepare
 * Raspberry Pi (tested on RPi3 Model B and RPi4 Model B) 
@@ -157,3 +157,6 @@ Expect result
 /dev/video0 /dev/video1 ...
 ```
 If nothings show, re-plugin the USB camera then run the command again. <br>
+
+## Image release
+[DOWNLOAD HERE]()
